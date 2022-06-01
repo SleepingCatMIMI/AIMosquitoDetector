@@ -1,0 +1,2 @@
+# AIMosquitoDetector
+AI for fun
